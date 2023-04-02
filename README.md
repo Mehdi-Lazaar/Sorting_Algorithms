@@ -1,4 +1,4 @@
-# Sorting_Algorithms
+# Sorting Algorithms
 ## Projet sur la complexité  des algorithmes de tri
 Comparaison des algorithmes de tri : tri à Bulles, tri rapide, tri par dénombrement. Le tri s'effectue sur un tableau d'éléments.
 Les éléments comportent un champ clé (entier positif ou nul ) et un champ contenu (qui pourrait être quelconque, mais nous supposerons que c'est un réel)
